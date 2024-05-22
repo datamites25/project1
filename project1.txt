@@ -8,3 +8,6 @@ Line 7 by p1
 Lin3 8 by p1
 Line 9 by p2
 Line 10 by p2
+Line 8 by p1
+Feature 1---------------------------------
+Feature 2---------------------------------
